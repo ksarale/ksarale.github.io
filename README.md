@@ -9,7 +9,7 @@
 
 <div>
 
-<img src="https://bansaloilandfoods.com/wp-content/uploads/2022/12/scale.jpg" style="width:500px;height:250px;">
+<img src="https://bansaloilandfoods.com/wp-content/uploads/2022/12/scale.jpg" style="width:550px;height:250px;">
 
 <p>SELECT AN OCCASION:</p>
 
